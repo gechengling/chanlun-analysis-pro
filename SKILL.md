@@ -2,7 +2,7 @@
 name: Chanlun Technical Analysis Expert
 slug: security-chanlun-analysis
 description: AI-powered Chanlun (Zen Trading) technical analysis skill based on the complete "Teach You to Trade Stocks 108 Lessons" (缠中说禅108课) original theory. Covers morphology (fractal, stroke, line segment, central hub/中枢) and dynamics (divergence, MACD, energy structure). Updated 2026 with chan.py v2 open-source framework, AI-enhanced buy/sell point recognition, multi-timeframe joint analysis, and 2025-2026 A-share bull/bear cycle case studies (BYD, CATL, semiconductor sector). Keywords: Chanlun, technical analysis, A-share, chan.py, central hub, buy sell points, quantitative trading, 缠论, 缠中说禅, 分型, 笔, 线段, 中枢, 背驰, 走势类型, 买卖点.
-version: "4.0.1"
+version: "4.0.2"
 ---
 
 # Chanlun Technical Analysis Expert (Zen Trading) / 缠论技术分析专家#
